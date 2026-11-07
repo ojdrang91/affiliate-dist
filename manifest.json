@@ -1,0 +1,54 @@
+{
+  "barnenavnelapper.no": {
+    "commit": "0cd29cd",
+    "sha256": "0acf876a8dac67ea3c7e31044f123ae6ecf5d0476b0adc202afd843e47e3dedf"
+  },
+  "besterobotklipper.no": {
+    "commit": "0cd29cd",
+    "sha256": "551098b62b3a275e020f84d842f1dae6a0269b37ac63a8e16c13074d6557fab6"
+  },
+  "besterobotstovsuger.no": {
+    "commit": "0cd29cd",
+    "sha256": "aa298faeb382c50bae21e5658612b555d5be12caba28ab38b9a9eaabdf9fcd76"
+  },
+  "bestetreningsutstyr.no": {
+    "commit": "0cd29cd",
+    "sha256": "47ccae5b70721fca72c01853abece995788563ec36bd40d44c0a7611407fb6ea"
+  },
+  "bestitestelsykkel.no": {
+    "commit": "0cd29cd",
+    "sha256": "c92f68803cffb3eb13e01b4d61da1422269ebbbf1d1b358772305d91822f20f7"
+  },
+  "bestitestgamingpc.no": {
+    "commit": "0cd29cd",
+    "sha256": "69b12231c90ec60a5d83609249fb98257f25f8fbc41cda1575b8fe99b92a94fa"
+  },
+  "bilstolbarn.no": {
+    "commit": "0cd29cd",
+    "sha256": "9356c28e809bc6c47e39e87a75256fac7c8c0736f187745f0e0d82a0be3d52a8"
+  },
+  "dokumenterteffekt.no": {
+    "commit": "0cd29cd",
+    "sha256": "9a9b7a53bb938e5b7cc4936ecee76c65d4ddfcc6900e7339b39254b313a07de0"
+  },
+  "godsnakk.no": {
+    "commit": "0cd29cd",
+    "sha256": "b57fed51a93c8c5b7d5aa1c199430ef5ce644cb52068b1786012cfbc75da84b8"
+  },
+  "mobilklokke.no": {
+    "commit": "0cd29cd",
+    "sha256": "9b01de89e1f8205622330a4dd2185b26a11565fa5da130583fe2f134c1429a45"
+  },
+  "robothumanoid.no": {
+    "commit": "0cd29cd",
+    "sha256": "93546db3d6cec4d3926d7df736976dbd57f5604605a087a9711197c22f923f38"
+  },
+  "trafikkskolepris.no": {
+    "commit": "0cd29cd",
+    "sha256": "9821cc2feb5d824554145a095fe657812220e59580ac7c4f657895e4c159cfd8"
+  },
+  "uteromguiden.no": {
+    "commit": "0cd29cd",
+    "sha256": "d9060032487bdabb6a21b17987faad9752bb90191d0db4b2da3e552193932dd0"
+  }
+}
