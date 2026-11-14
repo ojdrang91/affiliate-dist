@@ -1,0 +1,62 @@
+{
+  "barnenavnelapper.no": {
+    "commit": "2e20177",
+    "sha256": "e53e28f35de562583f96de488fde68741a6888485562a139e31c413ad4ce8bbf"
+  },
+  "bastanamnlappar.se": {
+    "commit": "2e20177",
+    "sha256": "45239079566025f6bb9d8b1150f99ed8df269aad7cf3061d96119d2de573f2df"
+  },
+  "besterobotklipper.no": {
+    "commit": "2e20177",
+    "sha256": "c5beeb07127692589326681a89c6c614899ea59111b2a2addcd0cf5278e730e3"
+  },
+  "besterobotstovsuger.no": {
+    "commit": "2e20177",
+    "sha256": "932e0e615804798951d172d43c4a48a32c94bad76c927886f543e969d655b672"
+  },
+  "bestetreningsutstyr.no": {
+    "commit": "2e20177",
+    "sha256": "ac8ba55c6b6463e7c170d06025ade0f536fa0f41782a0038d5417a952dc6175f"
+  },
+  "bestetv.no": {
+    "commit": "2e20177",
+    "sha256": "41cb37d9016c5a1e141a97fe3e3268eba4b818cece1c388de4b1ed8d516c5bb0"
+  },
+  "bestitestelsykkel.no": {
+    "commit": "2e20177",
+    "sha256": "27b4ff0a360a54935e84dcd4466e070cfbec3562771f67df978eabedf3235f5a"
+  },
+  "bestitestgamingpc.no": {
+    "commit": "2e20177",
+    "sha256": "943a1f23531999d9dbef0f46321bfd0e79af5f534bf53a47d11c2870547c0ce8"
+  },
+  "bilstolbarn.no": {
+    "commit": "2e20177",
+    "sha256": "cb0ae0c78c3c6445b28ac58c8fccd30d412f443f3c85db3d3b9f6046d33810e2"
+  },
+  "dokumenterteffekt.no": {
+    "commit": "2e20177",
+    "sha256": "a1e79c79a26c142e65af90242040de6676d581042eaca4bd6809bc90fa9d7ae2"
+  },
+  "godsnakk.no": {
+    "commit": "2e20177",
+    "sha256": "d03826fcf213866b3acf4d98973c8f2068f4f51b1897881c08ff2a0a0447e2dd"
+  },
+  "mobilklokke.no": {
+    "commit": "2e20177",
+    "sha256": "1edcc655a8d08679b03f9615a9531ab2dde627e42db73d527e4130453cdf8814"
+  },
+  "robothumanoid.no": {
+    "commit": "2e20177",
+    "sha256": "6b1faae0a4700f5afb94f1c2911b39f5d44dbb797d105bb558517d3192a38be2"
+  },
+  "trafikkskolepris.no": {
+    "commit": "2e20177",
+    "sha256": "865d13931a129223ea1f2baf9620983dc1a1c1737204ed6a4c6d74233caa5df5"
+  },
+  "uteromguiden.no": {
+    "commit": "2e20177",
+    "sha256": "0c2bddb248f9b81f44978c7b783106f3edca238f313c92f4a2e805c49ada2c6e"
+  }
+}
