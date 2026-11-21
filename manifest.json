@@ -1,0 +1,78 @@
+{
+  "barnenavnelapper.no": {
+    "commit": "179e3f5",
+    "sha256": "20a53d48eceffcd7299cc92438ef714bbe0443277a32cbf5acc09615c8d41a56"
+  },
+  "bastanamnlappar.se": {
+    "commit": "179e3f5",
+    "sha256": "015845c76c48aa67a6e48060cb8297e3090df924e75821c0a78e8fc11d0568e7"
+  },
+  "bestepowerbank.no": {
+    "commit": "179e3f5",
+    "sha256": "e5a9e1657c4914aa2d00ae734d99ee1ac6268caa283ff1922995f346a26cde10"
+  },
+  "besterobotklipper.no": {
+    "commit": "179e3f5",
+    "sha256": "e34623bfaa4b8ed7dbc0331b99afe201157aa214a776de93b48845497977d293"
+  },
+  "besterobotstovsuger.no": {
+    "commit": "179e3f5",
+    "sha256": "b6976796d2acbdb4e0fac19ef516289fed4cf34bd63d54a154bcfcf00e3f8785"
+  },
+  "bestetreningsutstyr.no": {
+    "commit": "179e3f5",
+    "sha256": "4cd396d9ce313e73dc12ed379033490e4eafe124f48f5679fdd009e475414fc9"
+  },
+  "bestetv.no": {
+    "commit": "179e3f5",
+    "sha256": "c82fc97565d1cae1393d8cc0fc51f2fd590ebac128d9ffc89d9bc7b63bf132d8"
+  },
+  "bestitestbarnevogn.no": {
+    "commit": "179e3f5",
+    "sha256": "7f3f607b97ee8a0914a5a25312e930059e7689c4bb85414cd98c9fb7f5f35825"
+  },
+  "bestitestelsykkel.no": {
+    "commit": "179e3f5",
+    "sha256": "3f6c0eb0bb7b3d1a349b8ab51b14d4f1daaed8a509d27ca714c88511c7e63947"
+  },
+  "bestitestgamingpc.no": {
+    "commit": "179e3f5",
+    "sha256": "06fdca031216919fa5512acb852cb64b5371243dd047f89b75e738f60ef1412a"
+  },
+  "bilstolbarn.no": {
+    "commit": "179e3f5",
+    "sha256": "d557e58994690051789842364aed180be6f56873978453a2485493b09ded865f"
+  },
+  "dokumenterteffekt.no": {
+    "commit": "179e3f5",
+    "sha256": "a39fb034117eaf0488a141a260e8379e47867a76660d87377655415392c031c9"
+  },
+  "godsnakk.no": {
+    "commit": "179e3f5",
+    "sha256": "d39bcadb7b14b4fc9f74f17060643257e84fd2d4f73837c56f520143507aae98"
+  },
+  "mobilklokke.no": {
+    "commit": "179e3f5",
+    "sha256": "f78ddda9059c277aff655ad2aed1d2aabdfaaa9da9262f4014fd527a24ac1d39"
+  },
+  "nocameracrew.com": {
+    "commit": "179e3f5",
+    "sha256": "96c4949ec87ca1fc396f8ee79f9eb02b709c0631f0888376be3280149341462b"
+  },
+  "robothumanoid.no": {
+    "commit": "179e3f5",
+    "sha256": "6ab38db46cc1a1ba9037dc7eabd10dce767f570d347abdedebfffe5cd4e4c7f0"
+  },
+  "trafikkskolepris.no": {
+    "commit": "179e3f5",
+    "sha256": "601110a5159da2dacc25da3fb5adffc3393d787e5a28dd78d57a3fb652451ee0"
+  },
+  "uteromguiden.no": {
+    "commit": "179e3f5",
+    "sha256": "987e305fd4287136593194d9f003c02ae0546cf6bdfa7cacc21e5e14d551b62b"
+  },
+  "ventilasjonsguiden.no": {
+    "commit": "179e3f5",
+    "sha256": "c83d6321f1277ab9220be1565560cabe4f69bbfaee1c7ef4f097c9309fd8b31c"
+  }
+}
